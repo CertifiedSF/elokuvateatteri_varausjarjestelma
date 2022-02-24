@@ -1,0 +1,10 @@
+Riisi,Sali 1,19.12.2021 klo 15.00
+Hamppypoika,Sali 2,19.12.2021 klo 15.00
+Alumiinimies,Sali 3,19.12.2021 klo 15.00
+Kaura,Sali 1,19.12.2021 klo 18.00
+Falafeli,Sali 3,19.12.2021 klo 17.50
+Alumiinimies 2: Electric Boogaloo,Sali 2,19.12.2021 klo 18.10
+Kissapoika,Sali 1,20.12.2021 klo 14.00
+This Is A Real Movie,Sali 3,20.12.2021 klo 14.00
+Riisi,Sali 1,19.12.2021 klo 20.30
+Eloguva,Sali 2,21.12.2021 klo 13.00
